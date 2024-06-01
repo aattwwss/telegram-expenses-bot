@@ -3,8 +3,8 @@ package message
 const (
 	HelpMsg = `
 Message directly with the format "[amount] [description]" to start recording an expenses. 
-Make sure the amount is purely a number or deciaml with no currency code or symbol.
-The desciption can be made up of any characters.
+Make sure the amount is purely a number or decimal with no currency code or symbol.
+The description can be made up of any characters.
 
 Example:
 ✔️ "5.50 Chicken Rice" (without the quotes) to record an expense of $5.50 with the description "Chicken Rice".
